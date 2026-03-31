@@ -1,14 +1,14 @@
 # :wave: Hello there! I'm Darek.
 
-### I'm a DevOps/SRE and AI engineer.
+### I'm a DevOps/Cloud engineer.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working as an SRE at **[Hycom](https://hycom.digital/)**.
-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjaGU3Z2E0azc0ODJiZWVqdDY4c28xYWpkZWE0dm1jZXUwYXd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAfutTRNPp9wKL2Zv7/giphy.gif" width="30"> Finishing final year of Master's in AI and ML Studies at **[Lodz University of Technology](https://p.lodz.pl/)**.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working as a DevOps at **[Hycom](https://hycom.digital/)**.
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjaGU3Z2E0azc0ODJiZWVqdDY4c28xYWpkZWE0dm1jZXUwYXd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAfutTRNPp9wKL2Zv7/giphy.gif" width="30"> I have recently completed a Master of Engineering in Artificial Intelligence and Machine Learning at **[Lodz University of Technology](https://p.lodz.pl/)**.
 - <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY3a25paW95Y3hpZ3RzNWk2ZmtvZHdwN214ZGc2N25wMG5rczdhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyLOpyJsKreyAW8I8x/giphy.gif" width="30"> Working on my **homelab** project.
 
 ## Favorite Tech
 
-> Tools, languages and other things that I like to work with.
+> Tools and languages that I work with.
 
 <table>
   <tr>
@@ -70,12 +70,18 @@
     </td>
     <td align="center" width="96">
       <a href="#darek07-tools" >
+        <img src="./img/bicep-icon.svg" width="48" height="48" alt="Bicep" />
+      </a>
+      <br>Bicep
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#darek07-tools" >
         <img src="./img/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#darek07-tools" >
         <img src="./img/gitlab-icon.svg" width="48" height="48" alt="GitLab" />
@@ -83,13 +89,13 @@
       <br>GitLab
     </td>
     <td align="center" width="96">
-      <a href="#darek07-tools" >
+      <a href="#darek07-tools">
         <img src="./img/github-icon.svg" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#darek07-tools">
+      <a href="#darek07-tools" >
         <img src="./img/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -99,12 +105,6 @@
         <img src="./img/djangoproject-icon.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#darek07-tools" >
-        <img src="./img/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
     </td>
   </tr>
 </table>
