@@ -48,31 +48,31 @@
       <a href="#darek07-tools" >
         <img src="./img/bicep-icon.svg" width="48" height="48" alt="Bicep" />
       </a>
-      <br>Terraform
+      <br>Bicep
     </td>
     <td align="center" width="96">
       <a href="#darek07-tools" >
         <img src="./img/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Ansible
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#darek07-tools" >
         <img src="./img/ansible-icon.svg" width="48" height="48" alt="Ansible" />
       </a>
-      <br>Zabbix
+      <br>Ansible
     </td>
     <td align="center" width="96">
       <a href="#darek07-tools" >
         <img src="./img/zabbix-icon.svg" width="48" height="48" alt="Zabbix" />
       </a>
-      <br>Grafana
+      <br>Zabbix
     </td>
     <td align="center" width="96">
       <a href="#darek07-tools" >
         <img src="./img/grafana-icon.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Bicep
+      <br>Grafana
     </td>
   </tr>
   <tr>
