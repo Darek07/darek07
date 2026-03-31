@@ -8,7 +8,7 @@
 
 ## Favorite Tech
 
-> Tools and languages that I work with.
+> Tools and languages I work with.
 
 <table>
   <tr>
